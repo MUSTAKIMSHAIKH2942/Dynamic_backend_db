@@ -3,3 +3,4 @@ djangorestframework
 psycopg2
 gunicorn
 whitenoise
+django-cors-headers
